@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'JeffTestPowershell'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/JSeb084/aztutorialpipeline-repo/blob/master/createwebapp/azuredeploy.json'
+    csmFileLink: 'https://raw.githubusercontent.com/JSeb084/aztutorialpipeline-repo/master/createwebapp/linkedStorageAccount.json?token=ATIXJ2E6RJ33ZNO3BJ46ZCLAKIK74'
     overrideParameters: '-projectName aztutorialpipeline'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
