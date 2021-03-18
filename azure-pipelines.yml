@@ -20,7 +20,7 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/JSeb084/aztutorialpipeline-repo/master/createwebapp/azuredeploy.json'
-    overrideParameters: '-projectName aztutorialpipeline'
+    overrideParameters: '-projectName aztutpipe'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 #- script: echo Hello, world!
